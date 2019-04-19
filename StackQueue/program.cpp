@@ -1,5 +1,5 @@
 // Author:        James Jenkins
-// Assignment:    Program - Stacks & Queues
+// Program:       Stacks & Queues
 // Date Written:  02/10/17
 // Description:   Stack & Queue
 #include <iostream>

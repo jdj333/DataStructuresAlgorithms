@@ -1,5 +1,5 @@
 // Author:          James Jenkins
-// Assignment:      Program - Linked List
+// Program:         Linked List
 // Date Written:    01/18/17
 // Description:     Provides a linked list program for creating linked list data structures
 #include <iostream>
